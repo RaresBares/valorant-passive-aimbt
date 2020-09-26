@@ -2,7 +2,7 @@
 F1::                 
 	Suspend
 	Return
-o::
+^o::
 Sleep 500
 while true{
 if(GetKeyState("o", "P")){
