@@ -4,5 +4,5 @@
  2. Download the script.
  3. Execute/Compile it.
  4. Start Valorant and join a game.
- 5. Press "Shift" + "O" (the letter || not the number)
+ 5. Press "Ctrl" + "O" (the letter || not the number)
  
